@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "database": "${workspaceFolder:api-server}/database.db",
+      "name": "social"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
